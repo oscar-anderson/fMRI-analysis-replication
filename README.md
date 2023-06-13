@@ -111,10 +111,13 @@ This step of Cohen's analysis was replicated by specifying the use of this model
 
 <img src="Images/Third-level/Third_level_2.jpg" width="400"/>
 
-Maintaining consistency with Cohen's design, the one EV defined at the third level constituted the across-participant activity. One contrast was performed with this EV, which involved averaging across all of the input participant data, to give a group-level effect, by assigning the sole EV with a weight of 1. Again, the effect was thresholded via cluster-based thresholding with a z-threshold of 2.3 and a cluster p threshold of 0.05, in accordance with Cohen's procedures. This was specified within the post-stats tab of FEAT's higher-level analysis window.
+Maintaining consistency with Cohen's design, the one EV defined at the third level constituted the across-participant activity. One contrast was performed with this EV, which involved averaging across all of the input participant data, to give a group-level effect, by assigning the sole EV with a weight of 1.
 
-<img src="Images/Third-level/Third_level_3.jpg" width="400"/>
-<img src="Images/Third-level/Third_level_4.jpg" width="400"/>
+<img src="Images/Third-level/Third_level_3.jpg" width="400"/> <img src="Images/Third-level/Third_level_4.jpg" width="400"/>
+
+Again, the effect was thresholded via cluster-based thresholding with a z-threshold of 2.3 and a cluster p threshold of 0.05, in accordance with Cohen's procedures. This was specified within the post-stats tab of FEAT's higher-level analysis window.
+
+<img src="Images/Third-level/Third_level_5.jpg" width="400"/>
 
 The across-participant output of this analysis constituted one FEAT file, which was stored in the /home/people/ota277/replication/part_B/fMRI_analysis/Third_level/cope1.feat directory.
 
@@ -123,10 +126,12 @@ The across-participant output of this analysis constituted one FEAT file, which 
 As presented in Figure 1, Cohen’s original study reported activations in the right lateral frontal pole, right inferior frontal gyrus, bilateral orbitofrontal gyrus, bilateral anterior cingulate cortex, right middle frontal gyrus, bilateral superior frontal gyrus, bilateral pre-supplementary motor area, bilateral striatum, bilateral thalamus, bilateral subthalamic nucleus, bilateral supramarginal gyrus, and bilateral occipital pole, during successful stopping in the Stop-Signal task.
 As can be seen from the activation map in Figure 2, our replication successfully established similar patterns of activity. These findings therefore substantiate the original report’s suggested involvement of these regions during successful cognitive-motor control.
 
-<img src="Images/Third-level/Third_level_5.jpg" width="450"/>
+<img src="Images/Third-level/Third_level_6.jpg" width="650"/>
+                                                          
 Figure 1. The activation maps, given in Cohen’s original report, that present the regions of significant activity, as established by the contrast between successful stopping – successful going in the SS task.
 <br>
 <br>
-<img src="Images/Third-level/Third_level_5.jpg" width="450"/>
+<img src="Images/Third-level/Third_level_7.jpg" width="650"/>
+<br>
 Figure 2. The activation maps obtained from this replication.
 
