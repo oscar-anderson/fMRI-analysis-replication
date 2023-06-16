@@ -1,6 +1,6 @@
 # fMRI-analysis-replication
 
-This functional Magnetic Resonance Imaging (fMRI) analysis pipeline replicates the methods employed in Jessica Cohen's PhD thesis, 'The Neural Basis of Self-Control', in effort to identify the neural correlates of self-control in a Stop-Signal task (SS). This analysis was run using a slightly expanded version of the DS009 OpenFMRI dataset (https://openfmri.org/dataset/ds000009), as was used for Cohen's report.
+This functional Magnetic Resonance Imaging (fMRI) analysis pipeline replicates the methods employed in Jessica Cohen's PhD thesis, 'The Neural Basis of Self-Control', in effort to identify the neural correlates of self-control in a Stop-Signal task (SS). This analysis was run using a slightly expanded version of the DS009 OpenFMRI dataset (https://openfmri.org/dataset/ds000009), as was used for Cohen's report. The original report can be found in the /Literature folder of this repository.
 
 The Centre for Human Brain Health's (CHBH) Parallel Brain Imaging computer Cluster (PBIC), based at the University of Birmingham, was used to store the data and run the analyses for this project. This uses Linux as the OS.
 
