@@ -2,9 +2,9 @@
 
 This functional Magnetic Resonance Imaging (fMRI) analysis pipeline replicates the methods employed in Jessica Cohen's PhD thesis, 'The Neural Basis of Self-Control', in effort to identify the neural correlates of self-control in a Stop-Signal task (SS). This analysis was run using a slightly expanded version of the DS009 OpenFMRI dataset (https://openfmri.org/dataset/ds000009), as was used for Cohen's report.
 
-## Data/directory organisation
-
 The Centre for Human Brain Health's (CHBH) Parallel Brain Imaging computer Cluster (PBIC), based at the University of Birmingham, was used to store the data and run the analyses for this project. This uses Linux as the OS.
+
+## Data/directory organisation
 
 All files/folders used in this analysis were placed in the directory:
 /home/people/ota277/replication/part_B. Within this directory were two
